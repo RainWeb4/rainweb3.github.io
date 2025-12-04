@@ -1,6 +1,6 @@
-# 国外访问：https://rainweb3.github.io/ （旧地址-因账号问题-暂停更新）
-# 国内国外访问：https://github.com/rainweb3/rainweb3.github.io （旧地址-因账号问题-暂停更新）
-# 新地址：https://github.com/RainWeb4/rainweb3.github.io | https://rainweb4.github.io
+### 国外访问：https://rainweb3.github.io/ （旧地址-因账号问题-暂停更新）
+### 国内国外访问：https://github.com/rainweb3/rainweb3.github.io （旧地址-因账号问题-暂停更新）
+###新地址：https://github.com/RainWeb4/rainweb3.github.io | https://rainweb4.github.io
 ---
 ### 🌟 嗨，我是 `[Rain]`！👋  
 ### 这里是web3知识库
