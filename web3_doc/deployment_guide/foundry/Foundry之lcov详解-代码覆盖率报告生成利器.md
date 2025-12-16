@@ -359,10 +359,3 @@ open coverage/html/index.html
 
 🎯 **结论**：  
 在当前 Solidity 开发生态中，**`forge coverage + lcov` 是最稳定、最高效的代码覆盖率解决方案**。它简单、可靠、无侵入，是保障智能合约质量的必备工具。
-
-如需，我可为你生成：
-- 完整的 `Dockerfile`
-- GitHub Actions 模板
-- 自动化覆盖率检查脚本（如低于 90% 则报错）
-
-欢迎继续提问！
