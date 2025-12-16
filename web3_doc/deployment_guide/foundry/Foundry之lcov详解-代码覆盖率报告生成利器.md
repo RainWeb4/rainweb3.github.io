@@ -1,5 +1,6 @@
 # Foundry之lcov详解-代码覆盖率报告生成利器
 --- 
+> **作者**：RainWeb3
 > **更新时间**：2025年10月13日  
 > **适用环境**：Linux（Ubuntu/Debian/WSL）、macOS（通过 Homebrew）、CI/CD 流水线（GitHub Actions、GitLab CI 等）  
 > **适用语言/框架**：C/C++、Solidity（Foundry）、Hardhat（间接支持）
